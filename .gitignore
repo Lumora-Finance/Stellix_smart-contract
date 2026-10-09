@@ -1,0 +1,13 @@
+# Rust / Cargo
+/target
+**/*.rs.bk
+
+# Soroban / Stellar local settings
+.soroban
+.stellar
+contracts/**/test_snapshots/
+
+# Editor / OS
+.DS_Store
+.idea
+.vscode
